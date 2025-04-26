@@ -90,3 +90,6 @@ type windows+R >>>> mstsc >>>> enter ip-address of the instance>>>> user ID and 
 8. This finishes the installation and configuration on GUI on an AWS EC2 Instance
    
 YouTube Video URL for step-by-step instructions: https://youtu.be/98b7qNurXyw
+
+![1_SVLEYtCI-hgsBuoNyPmplA](https://github.com/user-attachments/assets/e25e74df-03a0-48d3-a33a-4ff30a7e95ed)
+
