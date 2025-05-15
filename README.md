@@ -43,9 +43,9 @@ _apt update -y_
 
 _apt upgrade -y_
 
-sed -i 's/^PasswordAuthentication no/PasswordAuthentication yes/' /etc/ssh/sshd_config
+_sed -i 's/^PasswordAuthentication no/PasswordAuthentication yes/' /etc/ssh/sshd_config_
 
-/etc/init.d/ssh restart
+_/etc/init.d/ssh restart_
 
 adduser username_ #choose a username of your choice and set the password as well
 
