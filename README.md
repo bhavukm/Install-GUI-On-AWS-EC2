@@ -39,9 +39,9 @@ Note: All commands are in _Italic_ font only.
 
 3. Now, to setup and configure GUI, run the following commands in sequence.
 
-_apt update -y
+_apt update -y_
 
-apt upgrade -y
+_apt upgrade -y_
 
 sed -i 's/^PasswordAuthentication no/PasswordAuthentication yes/' /etc/ssh/sshd_config
 
