@@ -47,7 +47,7 @@ _sed -i 's/^PasswordAuthentication no/PasswordAuthentication yes/' /etc/ssh/sshd
 
 _/etc/init.d/ssh restart_
 
-adduser username_ #choose a username of your choice and set the password as well
+_adduser username_ #choose a username of your choice and set the password as well
 
 _visudo_
 
